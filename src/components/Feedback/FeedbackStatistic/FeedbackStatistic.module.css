@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 0 10px;
+}
+.FeedbackStatistic {
+  display: flex;
+  justify-content: space-between;
+  text-transform: capitalize;
+  color: rgb(23, 136, 235);
+  margin-bottom: 3px;
+  box-shadow: 0 1px;
+}

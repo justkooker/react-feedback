@@ -1,0 +1,17 @@
+.btn {
+  width: 30%;
+  margin: 5px;
+  color: white;
+  border: none;
+  height: 25px;
+  background-color: rgb(184, 137, 228);
+  border-radius: 3px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: rgb(154, 67, 224);
+  transition: color 0.5s;
+}
+.btn:active {
+  transform: translateY(1px);
+}
